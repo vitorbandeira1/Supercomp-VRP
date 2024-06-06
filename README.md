@@ -124,7 +124,8 @@ Os códigos foram testados com os mesmos arquivos de entrada, variando de grafos
 
 Os gráficos a seguir comparam o tempo de execução e o custo das melhores rotas para cada algoritmo testado.
 
-IMAGEM
+![Img Resultados](grafos/comparacao_tempos_execucao.png)
+![Img Resultados](grafos/comparacao_custos_rotas.png)
 
 - Comparação dos Tempos de Execução dos Algoritmos: Exibe o tempo de execução em escala logarítmica para cada algoritmo, permitindo visualizar melhor as diferenças de desempenho.
 - Comparação dos Custos das Melhores Rotas dos Algoritmos: Mostra o custo das melhores rotas encontradas por cada algoritmo, facilitando a comparação da qualidade das soluções.
