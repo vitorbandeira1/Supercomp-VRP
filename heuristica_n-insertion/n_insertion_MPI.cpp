@@ -90,13 +90,13 @@ int main(int argc, char* argv[]) {
     MPI_Comm_size(MPI_COMM_WORLD, &size);
 
     vector<string> nomesArquivos = {
-        "ingrafo1.txt",
-        "ingrafo2.txt",
-        "ingrafo3.txt",
-        "ingrafo4.txt",
-        "ingrafo5.txt",
-        "ingrafo6.txt",
-        "ingrafo7.txt",
+        "../grafos/ingrafo1.txt",
+        "../grafos/ingrafo2.txt",
+        "../grafos/grafo_6.txt",
+        "../grafos/grafo_7.txt",
+        "../grafos/grafo_8.txt",
+        "../grafos/grafo_9.txt",
+        "../grafos/grafo_10.txt",
     };
 
     // Dividir arquivos entre processos

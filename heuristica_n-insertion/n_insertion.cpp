@@ -80,15 +80,7 @@ private:
 };
 
 int main() {
-    // vector<string> nomesArquivos = {
-    //     "../grafos/ingrafo1.txt",
-    //     "../grafos/ingrafo2.txt",
-    //     "../grafos/ingrafo3.txt",
-    //     "../grafos/ingrafo4.txt",
-    //     "../grafos/ingrafo5.txt",
-    //     "../grafos/ingrafo6.txt",
-    //     "../grafos/ingrafo7.txt",
-    // };
+
     vector<string> nomesArquivos = {
         "../grafos/ingrafo1.txt",
         "../grafos/ingrafo2.txt",
