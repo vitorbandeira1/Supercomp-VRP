@@ -129,12 +129,4 @@ Os gráficos a seguir comparam o tempo de execução e o custo das melhores rota
 
 - Comparação dos Tempos de Execução dos Algoritmos: Exibe o tempo de execução em escala logarítmica para cada algoritmo, permitindo visualizar melhor as diferenças de desempenho.
 - Comparação dos Custos das Melhores Rotas dos Algoritmos: Mostra o custo das melhores rotas encontradas por cada algoritmo, facilitando a comparação da qualidade das soluções.
-## Instruções de Uso
 
-### Compilação:
-
-```sh
-g++ -o buscaglobal buscaglobal.cpp
-g++ -fopenmp -o bg_parallel_OMP bg_parallel_OMP.cpp
-g++ -o n_insertion n_insertion.cpp
-mpic++ -o n_insertion_MPI n_insertion_MPI.cpp
